@@ -1,0 +1,11 @@
+[
+  { "start": "2014-01-01T00:00:00Z", "content": "TC39 Proposal" },
+  { "start": "2015-09-01T00:00:00Z", "content": "TS 1.6 (Experimental)" },
+  { "start": "2015-11-01T00:00:00Z", "content": "TS 1.7 (Improved)" },
+  { "start": "2016-12-01T00:00:00Z", "content": "Chrome 55" },
+  { "start": "2016-12-01T00:00:00Z", "content": "TS 2.1 (Full)" },
+  { "start": "2017-02-01T00:00:00Z", "content": "Node 7.6.0" },
+  { "start": "2017-03-01T00:00:00Z", "content": "Firefox 52" },
+  { "start": "2017-03-01T00:00:00Z", "content": "Safari 10.1" },
+  { "start": "2017-06-01T00:00:00Z", "content": "ES2017" }
+]

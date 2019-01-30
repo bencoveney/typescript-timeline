@@ -1,0 +1,6 @@
+[
+  { "start": "2015-09-16T00:00:00Z", "content": "TS 1.6 - Types inside packages" },
+  { "start": "2016-01-01T00:00:00Z", "content": "TSD Deprecated" },
+  { "start": "2016-09-22T00:00:00Z", "content": "TS 2.0 - NPM @types" },
+  { "start": "2017-06-01T00:00:00Z", "content": "Typings Deprecated" }
+]
