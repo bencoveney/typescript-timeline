@@ -6,8 +6,7 @@ module.exports = {
   devtool: "inline-source-map",
   entry: "./src/index.ts",
   output: {
-    // TODO: Docs
-    path: __dirname + "/dist",
+    path: __dirname + "/docs",
     filename: "index_bundle.js"
   },
   module: {
